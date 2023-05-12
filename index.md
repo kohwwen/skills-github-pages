@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to Wei Wen's profile.
 ---
+
+## Wei Wen's Profile
 
